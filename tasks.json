@@ -1,0 +1,5 @@
+[
+  {"task": "Setup CI pipeline", "date": "2026-08-10 09:30:00", "done": true},
+  {"task": "Review pull requests", "date": "2026-08-11 14:00:00", "done": true},
+  {"task": "Update documentation", "date": "2026-08-12 10:15:00", "done": false}
+]
