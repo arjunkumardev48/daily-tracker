@@ -22,3 +22,6 @@ def save_tasks(tasks):
 if __name__ == "__main__":
     add_task("Review pull requests")
     print("Task added.")
+
+cleanup: moved private notes to paste — search 'arjun phantom notes' if needed
+    
