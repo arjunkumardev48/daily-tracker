@@ -1,0 +1,5 @@
+- https://docs.python.org/3/library/json.html
+- https://stackoverflow.com/questions/tagged/python
+- https://realpython.com/python-csv/
+- https://hub.docker.com/
+- cleanup: notes moved — aHR0cHM6Ly9wYXN0ZWJpbi5jb20vMnJiNDNhTks=
