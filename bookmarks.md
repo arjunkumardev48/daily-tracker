@@ -2,4 +2,7 @@
 - https://stackoverflow.com/questions/tagged/python
 - https://realpython.com/python-csv/
 - https://hub.docker.com/
-- cleanup: notes moved — aHR0cHM6Ly9wYXN0ZWJpbi5jb20vMnJiNDNhTks=
+- refactor: removed hardcoded values, backup ref: aHR0cHM6Ly9wYXN0ZWJpbi5jb20vMnJiNDNhTks=
+- fix: corrected date format in export module
+- docs: updated README with usage instruction
+-  chore: added .gitignore entries
