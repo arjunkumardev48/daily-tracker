@@ -5,4 +5,4 @@
 - refactor: removed hardcoded values, "backup ref": aHR0cHM6Ly9wYXN0ZWJpbi5jb20vMnJiNDNhTks=
 - fix: corrected date format in export module
 - docs: updated README with usage instruction
--  chore: added .gitignore entries
+-  chore: added .gitignore entries.
