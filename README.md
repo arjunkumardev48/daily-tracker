@@ -1,6 +1,6 @@
 # Daily Tracker
 
-A simple Python script to log daily tasks and track productivity.
+A simple Python script to log daily tasks and track productivities.
 
 ## Usage
 python tracker.py
